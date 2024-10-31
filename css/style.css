@@ -1,0 +1,58 @@
+h1 {
+   color: #697565; 
+   font-size: 42;
+   text-transform: capitalize;
+   text-align: center ;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: #697565; 
+    font-size: 26px;
+    text-transform: capitalize;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h3 {
+   color: #697565; 
+   font-size: 20px;
+   text-transform: capitalize;
+   text-align: justify;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ p {
+    color: #0f120d;
+    font-size: 20px;
+ }
+ 
+a {
+   font-size: 20px;
+   text-align: justify;
+   color: rgb(82, 112, 102);
+}
+
+body {
+   background-color: #ECDFCC;
+}
+
+.ana-sayfa {
+   font-size: 42;
+   color: #697565; 
+   text-transform: capitalize;
+   text-align: center ;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+   color: #3C3D37;
+   font-size: 14px;
+   font-family:monospace;
+}
+
+.alternatif {
+   color: rgb(99, 129, 124);
+}
+
+
+
+  
+
